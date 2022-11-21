@@ -13,7 +13,7 @@
   <property name="windowTitle">
    <string>Yellow circles</string>
   </property>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="click_pB">
    <property name="geometry">
     <rect>
      <x>140</x>
